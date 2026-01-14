@@ -13,8 +13,6 @@ Requires:
     - Create and set environment variable GOOGLE_API_KEY with your API key
     - optionally set GEMINI_MODEL (default: gemini-3-flash-preview)
 
-Example:
-    GOOGLE_API_KEY=... python gemini.py
 """
 import urllib.parse
 
